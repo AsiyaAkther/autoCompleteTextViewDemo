@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AutoCompleteTextViewDemo</string>
+
+    <string-array name="country_names">
+        <item>Afghanistan</item>
+        <item>India</item>
+        <item>Japan</item>
+        <item>Australia</item>
+        <item>America</item>
+        <item>Bangladesh</item>
+        <item>Bhutan</item>
+        <item>Pakistan</item>
+        <item>Bahrain</item>
+        <item>German</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Saudi Arabia</item>
+        <item>Brazil</item>
+        <item>Nepal</item>
+        <item>Finland</item>
+    </string-array>
+</resources>
